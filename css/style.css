@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: aqua;
+}
+
+nav ul li{
+    margin: 20px;
+    padding: 15px;
+    background-color: beige;
+}
+
+p{
+    text-align: center;
+    font-weight: 200;
+    margin: 15px;
+}
+
+
+article img{
+    width: 70%;
+    margin-left: 5%;
+}
